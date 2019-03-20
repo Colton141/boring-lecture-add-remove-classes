@@ -7,5 +7,21 @@ p.intro {
 }
 
 img.intro {
-  
+
+}
+
+div.important {
+  font-size: 40px;
+}
+
+.important {
+  color: red;
+}
+
+.unimportant {
+  color: pink;
+}
+
+span {
+
 }
